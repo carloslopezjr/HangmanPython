@@ -1,6 +1,3 @@
-# GLOBAL VARIABLES #
-
-
 # FUNCTIONS #
 def start():
 
